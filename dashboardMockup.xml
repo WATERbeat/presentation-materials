@@ -1,0 +1,398 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1053" measuredH="800" 
+
+mockupW="1029" mockupH="800">
+  <controls>
+    <control controlID="18" controlTypeID="__group__" 
+
+x="334" y="79" w="424" h="439" measuredW="424" measuredH="439" zOrder="0" locked="false" 
+
+isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" 
+
+controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="424" h="439" measuredW="450" 
+
+measuredH="400" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+         
+
+   <bottomheight>1</bottomheight>
+            <close>false</close>
+            
+
+<dragger>false</dragger>
+            <maximizeRestore>false</maximizeRestore>
+            
+
+<minimize>false</minimize>
+            <text>A%20Few%20Quick%20Tips</text>
+            
+
+<topheight>33</topheight>
+          </controlProperties>
+        </control>
+        <control 
+
+controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="397" y="9" w="-1" h="-1" 
+
+measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="18">
+          
+
+<controlProperties>
+            <icon>Info2Icon%7Cxsmall</icon>
+          </controlProperties>
+  
+
+      </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" 
+
+x="59" y="71" w="351" h="311" measuredW="200" measuredH="80" zOrder="2" locked="false" 
+
+isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            
+
+<size>12</size>
+            
+
+<text>To%20add%20new%20controls%2C%20drag%20them%20from%20the%20%7Bcolor%3A%23ff0000%7DUI%20Libr
+
+ary%20above%7Bcolor%7D%0A%20%0AOr%20try%20the%20super-fast%20%7Bcolor%3A%23ff0000%7D%22Quick%20A
+
+dd%22%20box%7Bcolor%7D%20in%20the%20menubar.%0A%20%0A%20%0A%20%0A%20%0ASelecting%2C%20moving%20a
+
+nd%20resizing%20controls%20should%20work%20just%20as%20you%27d%20expect.%0A%20%0A%20%0ATo%20edit
+
+%20text%2C%20double-click%20on%20it.%20Sometimes%20commas%20have%20meaning%2C%20as%20in%20the%20
+
+Menu%20control%20below%20-%20try%20to%20edit%20it%21%0A%20%0A%20%0A%20%0A%20%0AWe%20hope%20Balsa
+
+miq%20Mockups%20can%20help%20you.</text>
+          </controlProperties>
+        </control>
+      
+
+  <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="342" y="353" w="-1" 
+
+h="-1" measuredW="58" measuredH="63" zOrder="3" locked="false" isInGroup="18">
+          
+
+<controlProperties>
+            <color>0</color>
+            <icon>EmoticonIcon%7Clarge</icon>
+  
+
+          <text>Have%20Fun%21</text>
+          </controlProperties>
+        </control>
+        
+
+<control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="31" y="372" w="-1" h="-1" 
+
+measuredW="273" measuredH="28" zOrder="4" locked="false" isInGroup="18">
+          
+
+<controlProperties>
+            <color>2848996</color>
+            <italic>false</italic>
+       
+
+     <size>20</size>
+            <text>Design%20AWESOME%20interfaces%21</text>
+          
+
+</controlProperties>
+        </control>
+        <control controlID="7" 
+
+controlTypeID="com.balsamiq.mockups::TextInput" x="59" y="134" w="148" h="-1" measuredW="77" 
+
+measuredH="27" zOrder="5" locked="false" isInGroup="18">
+          <controlProperties>
+          
+
+  <bold>true</bold>
+            <text>Quick%20Add</text>
+          </controlProperties>
+        
+
+</control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="13" 
+
+y="66" w="-1" h="-1" measuredW="36" measuredH="37" zOrder="6" locked="false" isInGroup="18">
+    
+
+      <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            
+
+<color>16776960</color>
+          </controlProperties>
+        </control>
+        <control 
+
+controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="13" y="172" w="-1" h="-1" 
+
+measuredW="36" measuredH="39" zOrder="7" locked="false" isInGroup="18">
+          
+
+<controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            
+
+<color>16776960</color>
+            <text>2</text>
+          </controlProperties>
+        
+
+</control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::CallOut" x="13" 
+
+y="226" w="-1" h="-1" measuredW="45" measuredH="40" zOrder="8" locked="false" isInGroup="18">
+   
+
+       <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            
+
+<color>16776960</color>
+            <text>3</text>
+          </controlProperties>
+        
+
+</control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" 
+
+controlTypeID="com.balsamiq.mockups::Label" x="28" y="23" w="-1" h="-1" measuredW="393" 
+
+measuredH="36" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<color>13576743</color>
+        <size>28</size>
+        
+
+<text>Welcome%20to%20Balsamiq%20Mockups</text>
+      </controlProperties>
+    </control>
+    
+
+<control controlID="20" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="74" w="279" 
+
+h="58" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      
+
+<controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        
+
+<text>*This%20is%20a%20sample%20mockup%20to%20get%20you%20started.*%0AFeel%20free%20to%20delete%
+
+20it%20or%20reuse%20some%20of%20these%20controls%20for%20your%20own%20design.</text>
+      
+
+</controlProperties>
+    </control>
+    <control controlID="21" 
+
+controlTypeID="com.balsamiq.mockups::StickyNote" x="24" y="138" w="218" h="153" measuredW="109" 
+
+measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<text>Anything%20you%20do%20is%20immediately%20saved%20on%20your%20computer%2C%20so%20it%20will%
+
+20be%20there%20when%20you%20come%20back.%0A</text>
+      </controlProperties>
+    </control>
+    
+
+<control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="124" y="234" w="200" 
+
+h="124" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      
+
+<controlProperties>
+        
+
+<text>%0AThere%27s%20full%20undo/redo%2C%20so%20don%27t%20be%20afraid%20to%20explore%21</text>
+  
+
+    </controlProperties>
+    </control>
+    <control controlID="27" 
+
+controlTypeID="com.balsamiq.mockups::Arrow" x="684" y="20" w="10" h="121" measuredW="150" 
+
+measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<backgroundAlpha>0.5</backgroundAlpha>
+        <color>13576743</color>
+        
+
+<curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+ 
+
+       <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control 
+
+controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="454" y="9" w="140" h="169" 
+
+measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      
+
+<controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        
+
+<color>13576743</color>
+        <curvature>0</curvature>
+        <direction>top</direction>
+     
+
+   <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      
+
+</controlProperties>
+    </control>
+    <control controlID="33" 
+
+controlTypeID="com.balsamiq.mockups::StickyNote" x="40" y="328" w="257" h="190" measuredW="109" 
+
+measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<color>2848996</color>
+        
+
+<text>This%20demo%20version%20gives%20you%20a%20taste%20of%20Mockups.%20The%20Desktop%20version%
+
+20lets%20you%20import%20images%20from%20your%20Desktop%2C%20edit%20multiple%20mockups%2C%20link%
+
+20between%20them%2C%20Symbols%20%28page%20masters%2C%20templates%2C%20and%20re-usable%20componen
+
+ts%29%20and%20much%20more.</text>
+      </controlProperties>
+    </control>
+    <control 
+
+controlID="35" controlTypeID="com.balsamiq.mockups::MenuBar" x="393" y="365" w="350" h="29" 
+
+measuredW="189" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      
+
+<controlProperties>
+        <text>File%2CEdit%2CView%2CHelp</text>
+      </controlProperties>
+   
+
+ </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" 
+
+x="153" y="0" w="900" h="800" measuredW="450" measuredH="400" zOrder="9" locked="false" 
+
+isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        
+
+<color>2848996</color>
+        <text>h20%20Analytics%0Ahttp%3A//h20-analytics.com</text>
+      
+
+</controlProperties>
+    </control>
+    <control controlID="37" 
+
+controlTypeID="com.balsamiq.mockups::LineChart" x="252" y="217" w="767" h="175" measuredW="187" 
+
+measuredH="175" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="38" 
+
+controlTypeID="com.balsamiq.mockups::PieChart" x="839" y="488" w="-1" h="-1" measuredW="180" 
+
+measuredH="180" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="40" 
+
+controlTypeID="com.balsamiq.mockups::MenuBar" x="252" y="188" w="-1" h="-1" measuredW="295" 
+
+measuredH="29" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<borderStyle>none</borderStyle>
+        
+
+<text>Realtime%2C%20Day%2C%20Month%2C%206%20Month%2C%20Year</text>
+      </controlProperties>
+   
+
+ </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Map" x="252" 
+
+y="467" w="547" h="222" measuredW="252" measuredH="222" zOrder="12" locked="false" 
+
+isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="252" 
+
+y="112" w="607" h="-1" measuredW="411" measuredH="32" zOrder="16" locked="false" 
+
+isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        
+
+<size>24</size>
+        <text>Tagline%3A%20i.e.%20Conserve%20Water%20and%20Save</text>
+      
+
+</controlProperties>
+    </control>
+    <control controlID="43" 
+
+controlTypeID="com.balsamiq.mockups::SearchBox" x="252" y="427" w="-1" h="-1" measuredW="140" 
+
+measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        
+
+<color>0</color>
+        <text>Enter%20your%20address</text>
+      </controlProperties>
+    
+
+</control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::List" x="157" 
+
+y="187" w="95" h="126" measuredW="100" measuredH="126" zOrder="15" locked="false" 
+
+isInGroup="-1">
+      <controlProperties>
+        
+
+<alternateRowColor>15134199</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        
+
+<color>15658734</color>
+        <text>Overview%0AMy%20Analytics%0AComparison</text>
+      
+
+</controlProperties>
+    </control>
+  </controls>
+</mockup>
